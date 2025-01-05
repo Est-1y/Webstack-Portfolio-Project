@@ -17,7 +17,7 @@ function AgentDashboard() {
       ) : (
         <AgentHeroBanner
           header="Esther O."
-          text="Experts in residential homes and luxury apartments and AiBnBs, licensed in East Africa. Trusted by professionals and companies, with a 4.5-star rating on Trustpilot."
+          text="Experts in residential homes and luxury apartments and AirBnBs, licensed in East Africa. Trusted by professionals and companies, with a 4.5-star rating on Trustpilot."
           // Switchover
           label="List a Property"
         />
