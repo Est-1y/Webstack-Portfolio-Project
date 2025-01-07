@@ -19,7 +19,7 @@ const Team = (props) => {
             <img className="w-full object-cover" src={Umpass} alt="Umpass"></img>
           </div>
           <div className="inline-block">
-            <h5 className="text-[24px] sm:text-[20px]">Amy U</h5>
+            <h5 className="text-[24px] sm:text-[20px]">Umpass U</h5>
             <div className="flex text-[30px]">
               <FaFacebook className="pr-2 hover:scale-105 cursor-pointer" />
               <FaTwitter className="pr-2 hover:scale-110 cursor-pointer" />
@@ -32,7 +32,7 @@ const Team = (props) => {
             <img className="w-full object-cover" src={Amy} alt="Amy"></img>
           </div>
           <div className="inline-block">
-            <h5 className="text-[24px] sm:text-[20px]">Millicent A</h5>
+            <h5 className="text-[24px] sm:text-[20px]">Amy A</h5>
             <div className="flex text-[30px]">
               <FaFacebook className="pr-2 hover:scale-105 cursor-pointer" />
               <FaTwitter className="pr-2 hover:scale-110" />

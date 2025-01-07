@@ -15,7 +15,7 @@ const Hero = (props) => {
             <p className="text-2xl mb-10">{props.text}</p>
           </div>
 
-          <HeroImageBox p="Kiota cha mama" url={items[0]?.url} />
+          <HeroImageBox p="Aceyhost" url={items[0]?.url} />
         </div>
       </div>
     </div>
