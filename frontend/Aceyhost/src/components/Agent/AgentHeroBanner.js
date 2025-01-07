@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Esther from "../../assets/Esther.jpg";
+import Esther from "../../assets/Esther.jpeg";
 import { NavLink } from "react-router-dom";
 import MoreProperty from "../Property/MoreProperty";
 import ListPropertyForm from "../Templates/ListPropertyForm";

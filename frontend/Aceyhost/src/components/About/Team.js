@@ -3,7 +3,7 @@ import { FaFacebook, FaTwitter, FaWhatsapp } from "react-icons/fa";
 import Esther from "../../assets/Esther.jpeg";
 import Millicent from "../../assets/Millicent.jpeg";
 import Amy from "../../assets/Amy.jpeg";
-import Umpass from "../../assets/Umpass.jpg";
+import Umpass from "../../assets/Umpass.jpeg";
 
 const Team = (props) => {
   return (
