@@ -1,2 +1,1 @@
-*.msi filter=lfs diff=lfs merge=lfs -text
-backend/api/mongodb.msi filter=lfs diff=lfs merge=lfs -text
+*.js filter=lfs diff=lfs merge=lfs -text
