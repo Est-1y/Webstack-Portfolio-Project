@@ -72,19 +72,19 @@ function ContactFormSection() {
             <p className=""></p>
             <div className="pl-2 text-l">
               <p className="border-b-2 py-6">
-                <span className="font-bold]">+</span>Donec sollicitudin molestie malesuada.
+                <span className="font-bold]">+</span>How one can make bookings.
               </p>
               <p className="border-b-2 py-6">
-                <span className="font-bold]">+</span>Donec sollicitudin molestie malesuada.
+                <span className="font-bold]">+</span>Payment method.
               </p>
               <p className="border-b-2 py-6">
-                <span className="font-bold]">+</span>Donec sollicitudin molestie malesuada.
+                <span className="font-bold]">+</span>What to do in case of double booking.
               </p>
               <p className="border-b-2 py-6">
-                <span className="font-bold]">+</span>Donec sollicitudin molestie malesuada.
+                <span className="font-bold]">+</span>How to sell property
               </p>
               <p className="border-b-2 py-6">
-                <span className="font-bold]">+</span>Donec sollicitudin molestie malesuada.
+                <span className="font-bold]">+</span>Communication
               </p>
             </div>
           </div>
