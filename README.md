@@ -1,4 +1,6 @@
 # Aceyhost
+![Aceyhost web snip2](https://github.com/user-attachments/assets/2f5066fe-c909-4ce3-b5ac-cd60df5d0145)
+
 * A web app for hosting, booking, selling, and renting properties such as houses, Apartments and AirBnBs.
 
 # Features
