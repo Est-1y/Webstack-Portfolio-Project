@@ -24,6 +24,6 @@ Despite the missing features, Aceyhost functionality is not affected.
 * Database: MongoDB (using Mongoose for MongoDB interaction)
 * MongoDB Atlas for the database.
 
-# Author
+# 📝Author
 * Esther Akinyi
 
