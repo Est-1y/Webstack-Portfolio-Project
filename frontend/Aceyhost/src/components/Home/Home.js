@@ -1,7 +1,6 @@
 import React from "react";
 import Header from "../Header/Header";
 import Footer from "../Footer/Footer";
-import HeroImageBox from "../utils/HeroImageBox";
 import SearchButton from "../utils/SearchButton";
 import MoreProperty from "../Property/MoreProperty";
 import ExpertSection from "../utils/ExpertSection";
@@ -26,7 +25,6 @@ function Home() {
               <p className="text-xl mb-10">Let's help you find a home that is perfect for you</p>
               <SearchButton />
             </div>
-            {<HeroImageBox p="Featured Homes" url ={items[0]?.url}/>}
           </div>
         </div>
       </section>
