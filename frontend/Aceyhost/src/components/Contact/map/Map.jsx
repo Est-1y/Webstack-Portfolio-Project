@@ -7,7 +7,7 @@ function Map({ location, zoomLevel }) {
 
   return (
     <div className="map">
-    <h4 className="map-h2">Come Visit Us At Our Office</h4>
+    <h4 className="map-h2">Visit Our Office</h4>
 
     <div className="google-map">
       <GoogleMapReact
