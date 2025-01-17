@@ -48,11 +48,11 @@ h5 {
 
 button,
 .button {
-  @apply bg-purple-800 px-5 py-3 font-medium rounded-full transition ease-in-out duration-300 hover:scale-105 hover:bg-purple-900 rounded-tr-none;
+  @apply bg-blue-800 px-5 py-3 font-medium rounded-full transition ease-in-out duration-300 hover:scale-105 hover:bg-blue-900 rounded-tr-none;
 }
 
 .navlink {
-  @apply hover:text-purple-500 hover:scale-105 duration-300;
+  @apply hover:text-blue-500 hover:scale-105 duration-300;
 }
 
 .formLabel {
