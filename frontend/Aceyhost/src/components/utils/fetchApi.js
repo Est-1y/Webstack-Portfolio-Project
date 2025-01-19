@@ -1,15 +1,3 @@
-import axios from 'axios';
-
-// base url
-export const baseUrl = 'https://aceyhost.p.rapidapi.com'
-
-export const fetchApi = async (url) => {
-    const {data} = await axios.get((url), {
-        headers: {
-            'X-RapidAPI-Key': '4306ebd11dmshd6f7fbd88ab18bep18f5f3jsn64d2ce237638',
-            'X-RapidAPI-Host': 'aceyhost.p.rapidapi.com'
-          }
-    });
-
-    return data;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:669aa3cfa7a1b48e07fb8fc6380230aaab02b5e15168b0eced46217c159043d8
+size 376
